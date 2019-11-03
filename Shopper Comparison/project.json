@@ -1,7 +1,7 @@
 {
-  "name": "CreateSpreadsheet",
-  "description": "Blank Process",
-  "main": "Main.xaml",
+  "name": "Shop_Bot",
+  "description": "Quick bot used to compare prices from eBay, Amazon, and Overstock.",
+  "main": "Shop_Bot.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.1-ce]",
     "UiPath.Mail.Activities": "[1.7.1-ce]",
@@ -29,7 +29,8 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }

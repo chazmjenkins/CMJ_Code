@@ -1612,9 +1612,9 @@
     "restore": {
       "projectUniqueName": "CreateSpreadsheet",
       "projectName": "CreateSpreadsheet",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\ChazMJenkins\\Shopper Comparison\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\Shopper Comparison\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\ChazMJenkins\\Shopper Comparison\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\Shopper Comparison\\.local"
     },
     "frameworks": {
       "net461": {
