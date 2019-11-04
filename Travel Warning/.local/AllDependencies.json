@@ -1612,9 +1612,9 @@
     "restore": {
       "projectUniqueName": "Travel",
       "projectName": "Travel",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\ChazMJenkins\\Travel Warning\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\Travel Warning\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\ChazMJenkins\\Travel Warning\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\Travel Warning\\.local"
     },
     "frameworks": {
       "net461": {
