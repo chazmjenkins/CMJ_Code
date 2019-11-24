@@ -1612,9 +1612,9 @@
     "restore": {
       "projectUniqueName": "ConCatColumns",
       "projectName": "ConCatColumns",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\UiPath\\ConCatColumns\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\ConCatColumns\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\UiPath\\ConCatColumns\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\ConCatColumns\\.local"
     },
     "frameworks": {
       "net461": {
