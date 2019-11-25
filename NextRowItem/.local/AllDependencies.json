@@ -1612,9 +1612,9 @@
     "restore": {
       "projectUniqueName": "NextRowItem",
       "projectName": "NextRowItem",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\UiPath\\NextRowItem\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\NextRowItem\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\UiPath\\NextRowItem\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\NextRowItem\\.local"
     },
     "frameworks": {
       "net461": {

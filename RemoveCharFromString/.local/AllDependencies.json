@@ -1612,9 +1612,9 @@
     "restore": {
       "projectUniqueName": "RemoveCharFromString",
       "projectName": "RemoveCharFromString",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\UiPath\\RemoveCharFromString\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\RemoveCharFromString\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\UiPath\\RemoveCharFromString\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\RemoveCharFromString\\.local"
     },
     "frameworks": {
       "net461": {
