@@ -1603,9 +1603,9 @@
     "restore": {
       "projectUniqueName": "CommercialRealEstate",
       "projectName": "CommercialRealEstate",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\UiPath\\CommercialRealEstate\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\CommercialRealEstate\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\UiPath\\CommercialRealEstate\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\CommercialRealEstate\\.local"
     },
     "frameworks": {
       "net461": {
