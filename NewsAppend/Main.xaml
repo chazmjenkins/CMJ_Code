@@ -662,19 +662,28 @@
                           <av:PointCollection x:Key="ConnectorLocation">180,448.02 180,468.02</av:PointCollection>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <ui:ExcelApplicationScope Password="{x:Null}" sap2010:Annotation.AnnotationText="Using Excel Application Scope to create the spread if it does not exist then the rest of the data is written to excel using System Workbook" DisplayName="Excel Application Scope" sap:VirtualizedContainerService.HintSize="522.666666666667,331.333333333333" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_1" Visible="False" WorkbookPath="[Environment.ExpandEnvironmentVariables(&quot;%userprofile%\Desktop\ChazInvoke.xlsx&quot;)]">
+                      <ui:ExcelApplicationScope Password="{x:Null}" sap2010:Annotation.AnnotationText="Using Excel Application Scope to create the spread if it does not exist then the rest of the data is written to excel using System Workbook" DisplayName="Excel Application Scope" sap:VirtualizedContainerService.HintSize="522.666666666667,1252.66666666667" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_1" Visible="False" WorkbookPath="[Environment.ExpandEnvironmentVariables(&quot;%userprofile%\Desktop\ChazInvoke.xlsx&quot;)]">
                         <ui:ExcelApplicationScope.Body>
                           <ActivityAction x:TypeArguments="ui:WorkbookApplication">
                             <ActivityAction.Argument>
                               <DelegateInArgument x:TypeArguments="ui:WorkbookApplication" Name="ExcelWorkbookScope" />
                             </ActivityAction.Argument>
-                            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,178.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_17">
+                            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,1100" sap2010:WorkflowViewState.IdRef="Sequence_17">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <ui:ExcelWriteCell Text="{x:Null}" Cell="A1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_1" SheetName="Sheet1" />
+                              <ui:ExcelWriteCell Cell="A1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_1" SheetName="Ars Technica" Text="Ars Technica Articles" />
+                              <ui:ExcelWriteCell Cell="B1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_2" SheetName="Ars Technica" Text="URL" />
+                              <ui:ExcelSetRangeColor Color="{x:Null}" DisplayName="Set Range Color" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="ExcelSetRangeColor_1" Range="A1:B1" SheetName="Ars Technica" />
+                              <ui:ExcelWriteCell Text="{x:Null}" Cell="A1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_3" SheetName="Sheet1" />
+                              <ui:ExcelWriteCell Text="{x:Null}" Cell="A1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_4" SheetName="Sheet1" />
+                              <ui:ExcelSetRangeColor Color="{x:Null}" DisplayName="Set Range Color" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="ExcelSetRangeColor_2" Range="A1:A2" SheetName="Sheet1" />
+                              <ui:ExcelWriteCell Text="{x:Null}" Cell="A1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_5" SheetName="Sheet1" />
+                              <ui:ExcelWriteCell Text="{x:Null}" Cell="A1" DisplayName="Write Cell" sap:VirtualizedContainerService.HintSize="334,86.6666666666667" sap2010:WorkflowViewState.IdRef="ExcelWriteCell_6" SheetName="Sheet1" />
+                              <ui:ExcelSetRangeColor Color="{x:Null}" DisplayName="Set Range Color" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="ExcelSetRangeColor_3" Range="A1:A2" SheetName="Sheet1" />
+                              <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,62" sap2010:WorkflowViewState.IdRef="WriteLine_10" />
                             </Sequence>
                           </ActivityAction>
                         </ui:ExcelApplicationScope.Body>
