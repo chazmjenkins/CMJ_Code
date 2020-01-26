@@ -1794,9 +1794,9 @@
     "restore": {
       "projectUniqueName": "File Path Example",
       "projectName": "File Path Example",
-      "projectPath": "C:\\Users\\chajen02\\Documents\\UiPath\\File Path Example\\.local",
+      "projectPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\File Path Example\\.local",
       "packagesPath": "C:\\Users\\chajen02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chajen02\\Documents\\UiPath\\File Path Example\\.local"
+      "outputPath": "C:\\Users\\chajen02\\Documents\\GitHub\\UiPath\\File Path Example\\.local"
     },
     "frameworks": {
       "net461": {

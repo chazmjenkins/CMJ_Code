@@ -40,6 +40,20 @@
     },
     {
       "Package": {
+        "Id": "UiPath.PDF.Activities",
+        "Version": "3.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\chajen02\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
+        "C:\\Users\\chajen02\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.ocr.contracts/2.3.0-preview\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
+        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.Activities.dll",
+        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.dll"
+      ]
+    },
+    {
+      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "19.12.0-preview"
       },
@@ -103,20 +117,6 @@
         "C:\\Users\\chajen02\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
         "C:\\Users\\chajen02\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.Tesseract.dll",
         "C:\\Users\\chajen02\\.nuget\\packages\\uipath.vision/2.0.0\\lib/net452/UiPath.Vision.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "UiPath.PDF.Activities",
-        "Version": "3.1.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\chajen02\\.nuget\\packages\\bitmiracle.docotic.pdf/5.10.9957\\lib/net40/BitMiracle.Docotic.Pdf.dll",
-        "C:\\Users\\chajen02\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.ocr.contracts/2.3.0-preview\\lib/net45/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.Activities.Design.dll",
-        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.Activities.dll",
-        "C:\\Users\\chajen02\\.nuget\\packages\\uipath.pdf.activities/3.1.0\\lib/net461/UiPath.PDF.dll"
       ]
     }
   ],
